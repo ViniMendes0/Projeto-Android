@@ -89,8 +89,9 @@ header p {
 
 nav {
     background-color: var(--cordoheader);
-    padding: 10px;
+    padding: 8px;
     box-shadow: 0px 7px 9px rgba(0, 0, 0, 0.295);
+    text-align: center;
 
 }
 
